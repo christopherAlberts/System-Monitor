@@ -1,6 +1,6 @@
 # CppND-System-Monitor
 
-This project was part of Udacity's C++ Nano Degree program which I did.
+This project was part of the Udacity's C++ Nano Degree program which I did.
 
 ![System Monitor](images/monitor.png)
 
